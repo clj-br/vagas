@@ -13,3 +13,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 ## Empresas com vagas mas que usam Clojure eventualmente ou em projetos específicos
 
 {{ uso-eventual }}
+
+## Licença
+
+* [MIT](./LICENSE)
