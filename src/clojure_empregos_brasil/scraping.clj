@@ -113,7 +113,9 @@
                         :apply   "Onde aplicar"})))
 
 (defn -main [& args]
-  (let [positions (scrap-all nubank paygo embraer pipo-saude)
+  (let [positions (sort-by (juxt :name :title)
+                           (concat (scrap-all nubank paygo embraer pipo-saude)
+                                   (edn/read (java.io.PushbackReader. (io/reader "jobs.edn")))))
         companies (edn/read (java.io.PushbackReader. (io/reader "companies.edn")))
 
         {:keys [unavailable eventual-use]} (group-by :situation companies)]
