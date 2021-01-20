@@ -5,7 +5,8 @@
             [clojure.edn :as edn]
             [clojure.java.io :as io]
             [net.cgrand.enlive-html :as html]
-            [selmer.parser :as selmer]))
+            [selmer.parser :as selmer])
+  (:import (java.net URL)))
 
 (defn attr
   "Returns a function that receives a node and returns the
@@ -92,20 +93,29 @@
    :brazil?   boolean
    :clojure?  boolean})
 
+(defn replace-path
+  "Replace a path for a new-path in a url"
+  [new-path url]
+  (let [url (URL. url)]
+    (str (URL. (.getProtocol url)
+               (.getHost url)
+               new-path))))
+
 (defn scrap-all
   "Scrap all companies filtering Clojure brazilian engineers and returning a full
    sequence."
   [& companies]
   (flatten
     (for [{:keys [engineer? brazil? clojure? enrich name page] :as company} companies]
-      (let [html (html/html-resource (java.net.URL. page))
+      (let [html (html/html-resource (URL. page))
             positions (scrap html
                              (:path company)
                              (:scrap company))]
         (->> positions
              (filter #(and (brazil? %) (clojure? %) (engineer? %)))
              (map #(assoc % :name name
-                            :url (str page (:url %)))))))))
+                            :url (replace-path (:url %)
+                                               (:page company)))))))))
 
 (defn markdown-table
   "Build a markdown table in rows"
