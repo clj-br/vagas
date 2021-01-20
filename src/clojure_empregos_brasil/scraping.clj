@@ -1,9 +1,11 @@
 (ns clojure-empregos-brasil.scraping
-  (:require [net.cgrand.enlive-html :as html]
+  (:require [clojure.string :as string]
             [clojure.pprint :as pprint]
             [clojure.set :as set]
-            [selmer.parser :as selmer]
-            [clojure.string :as string]))
+            [clojure.edn :as edn]
+            [clojure.java.io :as io]
+            [net.cgrand.enlive-html :as html]
+            [selmer.parser :as selmer]))
 
 (defn attr [x]
   (fn [node]
@@ -102,19 +104,33 @@
       (update :remote {true "Sim" false "Não"})
       (update :title #(string/replace % #"\|" "-"))))
 
+(defn transform-company
+  [company]
+  (-> company
+      (select-keys [:name :website :apply])
+      (set/rename-keys {:name    "Empresa"
+                        :website "Site"
+                        :apply   "Onde aplicar"})))
+
 (defn -main [& args]
-  (let [positions (scrap-all nubank paygo embraer pipo-saude)]
+  (let [positions (scrap-all nubank paygo embraer pipo-saude)
+        companies (edn/read (java.io.PushbackReader. (io/reader "companies.edn")))
+
+        {:keys [unavailable eventual-use]} (group-by :situation companies)]
     (spit "scraped-jobs.edn" (pr-str positions))
 
-    (->> {:vagas (markdown-table
-                   (map #(-> %
-                             (select-keys [:title :name :location :remote :url])
-                             translate-values
-                             (set/rename-keys {:title    "Vaga"
-                                               :name     "Empresa"
-                                               :location "Local"
-                                               :remote   "Remoto?"
-                                               :url      "Onde aplicar"}))
-                        positions))}
+    (->> {:vagas        (markdown-table
+                          (map #(-> %
+                                    (select-keys [:title :name :location :remote :url])
+                                    translate-values
+                                    (set/rename-keys {:title    "Vaga"
+                                                      :name     "Empresa"
+                                                      :location "Local"
+                                                      :remote   "Remoto?"
+                                                      :url      "Onde aplicar"}))
+                               positions))
+
+          :sem-vagas    (markdown-table (map transform-company unavailable))
+          :uso-eventual (markdown-table (map transform-company eventual-use))}
          (selmer/render (slurp "README.md.template"))
          (spit "README.md"))))

@@ -17,3 +17,21 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 | Pessoa Engenheira de Software (vaga focada em pessoas trans) - Trabalho Remoto | Pipo Saúde | São Paulo, BR |         | https://pipo-saude.breezy.hr//p/647061946892-pessoa-engenheira-de-software-vaga-focada-em-pessoas-trans-trabalho-remoto |
 
 
+## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
+
+
+|           Empresa |                             Site |                                         Onde aplicar |
+|-------------------|----------------------------------|------------------------------------------------------|
+| Moleque de Ideias | https://www.molequedeideias.net/ |                     https://www.molequedeideias.net/ |
+|            CSD BR |                https://csdbr.com |                                         rh@csdbr.com |
+|    180º Insurance |             https://180s.com.br/ | https://www.linkedin.com/company/180-insurance/jobs/ |
+|       Zen Finance |   https://www.zenfinance.com.br/ |  https://www.linkedin.com/company/zenfinancebr/jobs/ |
+
+
+## Empresas com vagas mas que usam Clojure eventualmente ou em projetos específicos
+
+
+|      Empresa |                              Site |                            Onde aplicar |
+|--------------|-----------------------------------|-----------------------------------------|
+|          B2W | https://www.b2wmarketplace.com.br |                    https://b2w.gupy.io/ |
+| Quinto Andar |   https://www.quintoandar.com.br/ | https://apply.workable.com/quintoandar/ |

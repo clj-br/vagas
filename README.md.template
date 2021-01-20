@@ -6,3 +6,10 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 
 {{ vagas }}
 
+## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
+
+{{ sem-vagas }}
+
+## Empresas com vagas mas que usam Clojure eventualmente ou em projetos específicos
+
+{{ uso-eventual }}
