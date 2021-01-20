@@ -49,7 +49,7 @@
   {:name      "PayGo"
    :page      "https://paygo.gupy.io/"
    :path      [:.job-list :tr]
-   :scrap     gupy
+   :scrap     (assoc gupy :remote boolean) ;; all PayGo positions are remote
    :engineer? #(= (:department %) "Tecnologia")
    :brazil?   boolean
    :clojure?  #(string/includes?
