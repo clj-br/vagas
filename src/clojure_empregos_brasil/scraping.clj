@@ -7,13 +7,25 @@
             [net.cgrand.enlive-html :as html]
             [selmer.parser :as selmer]))
 
-(defn attr [x]
+(defn attr
+  "Returns a function that receives a node and returns the
+   k attribute of the node."
+  [k]
   (fn [node]
-    (get (:attrs node) x)))
+    (get (:attrs node) k)))
 
 (defn scrap
-  [html path mapping]
-  (for [opening (html/select html path)]
+  "Scrap all the items that match path in document and map then using mapping.
+   Returns a sequence of maps which equivalent to mapping.
+
+   If mapping is something like {:href (attr :href) :label [html/text-node]}
+   scrap will return something like:
+
+   > (scrap document [:a] {:href (attr :href) :label [html/text-node]})
+   ({:href \"/about\" :label \"About\"})
+  "
+  [document path mapping]
+  (for [opening (html/select document path)]
     (into {}
           (for [[key value-path] mapping]
             [key
@@ -49,7 +61,7 @@
   {:name      "PayGo"
    :page      "https://paygo.gupy.io/"
    :path      [:.job-list :tr]
-   :scrap     (assoc gupy :remote boolean) ;; all PayGo positions are remote
+   :scrap     (assoc gupy :remote boolean)                  ;; all PayGo positions are remote
    :engineer? #(= (:department %) "Tecnologia")
    :brazil?   boolean
    :clojure?  #(string/includes?
@@ -80,7 +92,10 @@
    :brazil?   boolean
    :clojure?  boolean})
 
-(defn scrap-all [& companies]
+(defn scrap-all
+  "Scrap all companies filtering Clojure brazilian engineers and returning a full
+   sequence."
+  [& companies]
   (flatten
     (for [{:keys [engineer? brazil? clojure? enrich name page] :as company} companies]
       (let [html (html/html-resource (java.net.URL. page))
@@ -93,24 +108,28 @@
                             :url (str page (:url %)))))))))
 
 (defn markdown-table
-  [x]
+  "Build a markdown table in rows"
+  [rows]
   (string/replace (with-out-str
-                    (pprint/print-table x))
+                    (pprint/print-table rows))
                   #"\+" "|"))
 
-(defn translate-values
-  [x]
-  (-> x
-      (update :remote {true "Sim" false "Não"})
-      (update :title #(string/replace % #"\|" "-"))))
-
 (defn transform-company
+  "Select :name :website and :apply keys and rename them to translated
+   strings"
   [company]
   (-> company
       (select-keys [:name :website :apply])
       (set/rename-keys {:name    "Empresa"
                         :website "Site"
                         :apply   "Onde aplicar"})))
+
+(defn partial-right
+  "Takes a function f with partial arguments r-args and returns a function
+   that apply those arguments to the right."
+  [f & r-args]
+  (fn [& args]
+    (apply f (concat args r-args))))
 
 (defn -main [& args]
   (let [positions (sort-by (juxt :name :title)
@@ -124,7 +143,10 @@
     (->> {:vagas        (markdown-table
                           (map #(-> %
                                     (select-keys [:title :name :location :remote :url])
-                                    translate-values
+
+                                    (update :remote {true "Sim" false "Não"})
+                                    (update :title (partial-right string/replace #"\|" "-"))
+
                                     (set/rename-keys {:title    "Vaga"
                                                       :name     "Empresa"
                                                       :location "Local"
