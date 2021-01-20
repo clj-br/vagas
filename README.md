@@ -38,3 +38,8 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |--------------|-----------------------------------|-----------------------------------------|
 |          B2W | https://www.b2wmarketplace.com.br |                    https://b2w.gupy.io/ |
 | Quinto Andar |   https://www.quintoandar.com.br/ | https://apply.workable.com/quintoandar/ |
+
+
+## Licença
+
+* [MIT](./LICENSE)
