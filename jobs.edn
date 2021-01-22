@@ -25,4 +25,25 @@
   :department "Tecnologia"
   :remote     true
   :type       "Full-time employee"
-  :name       "PayGo"}]
+  :name       "PayGo"}
+ {:title      "Eng. de software Java / Clojure"
+  :url        "https://empregoteca.compleo.com.br/Visualizar/66834"
+  :location   "Campinas - SP"
+  :department "Tecnologia"
+  :remote     false
+  :type       "Full-time employee"
+  :name       "Diesel Bank"}
+ {:title      "Eng. de software Java / Clojure"
+  :url        "https://empregoteca.compleo.com.br/Visualizar/66834"
+  :location   "São Luís - MA"
+  :department "Tecnologia"
+  :remote     false
+  :type       "Full-time employee"
+  :name       "Diesel Bank"}
+ {:title      "Eng. de software Java / Clojure"
+  :url        "https://empregoteca.compleo.com.br/Visualizar/66834"
+  :location   "Fortaleza - CE"
+  :department "Tecnologia"
+  :remote     false
+  :type       "Full-time employee"
+  :name       "Diesel Bank"}]
