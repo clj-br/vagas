@@ -7,6 +7,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 
 |                                                                           Vaga |      Empresa |          Local | Remoto? |                                                                                                           Onde aplicar |
 |--------------------------------------------------------------------------------|--------------|----------------|---------|------------------------------------------------------------------------------------------------------------------------|
+|                                                       Sênior Software Engineer |     Captalys | São Paulo - SP |     Sim |                                                                                   https://captalys.gupy.io/jobs/548436 |
 |                                                Eng. de software Java / Clojure |  Diesel Bank |  Campinas - SP |     Não |                                                                    https://empregoteca.compleo.com.br/Visualizar/66834 |
 |                                                Eng. de software Java / Clojure |  Diesel Bank |  São Luís - MA |     Não |                                                                    https://empregoteca.compleo.com.br/Visualizar/66834 |
 |                                                Eng. de software Java / Clojure |  Diesel Bank | Fortaleza - CE |     Não |                                                                    https://empregoteca.compleo.com.br/Visualizar/66834 |
