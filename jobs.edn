@@ -19,14 +19,6 @@
   :remote     true
   :name       "Flow Finance"}
 
- {:title      "Pessoa Desenvolvedora Clojure"
-  :url        "https://www.linkedin.com/jobs/view/2343660504/"
-  :location   "São Paulo"
-  :department "Tecnologia"
-  :remote     true
-  :type       "Full-time employee"
-  :name       "PayGo"}
-
  {:title      "Eng. de software Java / Clojure"
   :url        "https://empregoteca.compleo.com.br/Visualizar/66834"
   :location   "Campinas - SP"
