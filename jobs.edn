@@ -5,13 +5,6 @@
   :remote     true
   :name       "Flow Finance"}
 
- {:title      "Front End Developer"
-  :url        "https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/rec6mhXK6haYvypOz"
-  :location   nil
-  :department "Engineering"
-  :remote     true
-  :name       "Flow Finance"}
-
  {:title      "Back End Developer"
   :url        "https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recdywWrnobwHWmOy"
   :location   nil
