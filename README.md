@@ -1,3 +1,5 @@
+![Clojure Empregos Brasil](./docs/cover.png)
+
 # Clojure Empregos Brasil
 
 Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Brasil. Quer anunciar uma vaga? Abra uma [issue](https://github.com/renatoalencar/clojure-empregos-brasil/issues).
