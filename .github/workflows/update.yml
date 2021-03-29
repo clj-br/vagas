@@ -1,0 +1,29 @@
+name: Update positions
+
+on: [workflow_dispatch]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Prepare java
+        uses: actions/setup-java@v1
+        with:
+          java-version: '14'
+
+      - name: Install clojure tools
+        uses: DeLaGuardo/setup-clojure@3.2
+        with:
+          cli: 1.10.2.774
+
+      - name: Scrap positions
+        run: clojure -X clojure-empregos-brasil.scraping/-main
+
+      - name: Commit and push
+        run: |
+          git commit -am 'Update positions'
+          git push origin master
