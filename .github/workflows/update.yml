@@ -25,5 +25,7 @@ jobs:
 
       - name: Commit and push
         run: |
+          git config --global user.email "renatoalencar.73@gmail.com"
+          git config --global user.name "Renato Alencar"
           git commit -am 'Update positions'
           git push origin master
