@@ -14,10 +14,6 @@
   :website   "https://180s.com.br/"
   :apply     "https://www.linkedin.com/company/180-insurance/jobs/"
   :situation :unavailable}
- {:name      "Zen Finance"
-  :website   "https://www.zenfinance.com.br/"
-  :apply     "https://www.linkedin.com/company/zenfinancebr/jobs/"
-  :situation :unavailable}
  {:name      "Quinto Andar"
   :website   "https://www.quintoandar.com.br/"
   :apply     "https://apply.workable.com/quintoandar/"
