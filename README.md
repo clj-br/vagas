@@ -7,17 +7,14 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 ## Vagas
 
 
-|                                                  Vaga |     Empresa |          Local | Remoto? |                                                                           Onde aplicar |
-|-------------------------------------------------------|-------------|----------------|---------|----------------------------------------------------------------------------------------|
-|                              Sênior Software Engineer |    Captalys | São Paulo - SP |     Sim |                                                   https://captalys.gupy.io/jobs/548436 |
-|                       Eng. de software Java / Clojure | Diesel Bank |  Campinas - SP |     Não |                                    https://empregoteca.compleo.com.br/Visualizar/66834 |
-|                       Eng. de software Java / Clojure | Diesel Bank |  São Luís - MA |     Não |                                    https://empregoteca.compleo.com.br/Visualizar/66834 |
-|                       Eng. de software Java / Clojure | Diesel Bank | Fortaleza - CE |     Não |                                    https://empregoteca.compleo.com.br/Visualizar/66834 |
-| Remote Senior Back-End / Fullstack Engineer - Clojure |     Embraer |      São Paulo |     Sim |                    https://embraer.gupy.io/jobs/536712?jobBoardSource=gupy_public_page |
-|                                     Software Engineer |      Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2569175 |
-|                                          Tech Manager |      Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2989044 |
-|                   Vulnerability Management Specialist |      Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2513216 |
-|            Pessoa Engenheira de Software Pleno/Senior |  Pipo Saúde |  São Paulo, BR |         | https://pipo-saude.breezy.hr/p/323a55e4c15f-pessoa-engenheira-de-software-pleno-senior |
+|                                                  Vaga |    Empresa |          Local | Remoto? |                                                                           Onde aplicar |
+|-------------------------------------------------------|------------|----------------|---------|----------------------------------------------------------------------------------------|
+|                              Sênior Software Engineer |   Captalys | São Paulo - SP |     Sim |                                                   https://captalys.gupy.io/jobs/548436 |
+| Remote Senior Back-End / Fullstack Engineer - Clojure |    Embraer |      São Paulo |     Sim |                    https://embraer.gupy.io/jobs/536712?jobBoardSource=gupy_public_page |
+|                                     Software Engineer |     Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2569175 |
+|                                          Tech Manager |     Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2989044 |
+|                   Vulnerability Management Specialist |     Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2513216 |
+|            Pessoa Engenheira de Software Pleno/Senior | Pipo Saúde |  São Paulo, BR |         | https://pipo-saude.breezy.hr/p/323a55e4c15f-pessoa-engenheira-de-software-pleno-senior |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
