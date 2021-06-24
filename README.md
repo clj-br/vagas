@@ -16,6 +16,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 | Remote Senior Back-End / Fullstack Engineer - Clojure |     Embraer |      São Paulo |     Sim |                    https://embraer.gupy.io/jobs/536712?jobBoardSource=gupy_public_page |
 |                                     Software Engineer |      Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2569175 |
 |                                          Tech Manager |      Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2989044 |
+|                   Vulnerability Management Specialist |      Nubank |      São Paulo |     Não |                                       https://boards.greenhouse.io/nubank/jobs/2513216 |
 |            Pessoa Engenheira de Software Pleno/Senior |  Pipo Saúde |  São Paulo, BR |         | https://pipo-saude.breezy.hr/p/323a55e4c15f-pessoa-engenheira-de-software-pleno-senior |
 
 
