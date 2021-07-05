@@ -4,4 +4,12 @@
   :department "Tecnologia Suporte"
   :remote     true
   :type       "Full-time employee"
-  :name       "Captalys"}]
+  :name       "Captalys"}
+ 
+ {:title      "Clojure Backend Developer",
+  :url        "https://github.com/renatoalencar/clojure-empregos-brasil/issues/4"
+  :location   "Remoto"
+  :department ""
+  :remote     true
+  :type       ""
+  :name       "K2 Partnering"}]
