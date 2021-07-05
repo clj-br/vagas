@@ -28,4 +28,4 @@ jobs:
           git config --global user.email "renatoalencar.73@gmail.com"
           git config --global user.name "Renato Alencar"
           git commit -am 'Update positions'
-          git push origin master
+          git push origin main
