@@ -3,7 +3,7 @@ name: Update positions
 on: 
   workflow_dispatch:
   schedule:
-     - cron '0 12 */1 * 1-5'
+    - cron: '0 12 */1 * 1-5' # Todos os dias, às 12h de segunda a sexta
 
 jobs:
   update:
