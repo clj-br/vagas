@@ -24,7 +24,7 @@ jobs:
           cli: 1.10.2.774
 
       - name: Scrap positions
-        run: clojure -X clojure-empregos-brasil.scraping/-main
+        run: clojure -M -m clojure-empregos-brasil.main
 
       - name: Commit and push
         run: |
