@@ -18,9 +18,22 @@
    :office_id  (scrap/attr :office_id)
    :remote     false})
 
+(defn ^:private breezy-scrap-remote-by-wifi-icon
+  [position]
+  (-> position
+      (html/select [:ul.meta :li.location])
+      first
+      :content
+      (as-> location-items
+            (filter (fn [item] (re-find #"wifi" (get-in item [:attrs :class] "")))
+                    location-items))
+      count
+      (> 0)))
+
 (def breezy
   {:title      [:h2 html/text-node]
    :url        #(-> % (html/select [:a]) first :attrs :href)
+   :remote     breezy-scrap-remote-by-wifi-icon
    :location   [:ul.meta :li.location html/text-node]
    :department [:ul.meta :li.department html/text-node]
    :type       [:ul.meta :li.type html/text-node]})
