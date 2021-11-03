@@ -20,7 +20,8 @@
   (scrap/scrap-all companies/nubank
                    companies/paygo
                    companies/embraer
-                   companies/pipo-saude))
+                   companies/pipo-saude
+                   companies/i80-seguros))
 
 ;; TODO: Most of these functions should go into different
 ;; namespaces.

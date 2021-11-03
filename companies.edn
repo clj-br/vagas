@@ -10,10 +10,6 @@
   :website   "https://www.b2wmarketplace.com.br"
   :apply     "https://b2w.gupy.io/"
   :situation :eventual-use}
- {:name      "180º Insurance"
-  :website   "https://180s.com.br/"
-  :apply     "https://www.linkedin.com/company/180-insurance/jobs/"
-  :situation :unavailable}
  {:name      "Quinto Andar"
   :website   "https://www.quintoandar.com.br/"
   :apply     "https://apply.workable.com/quintoandar/"

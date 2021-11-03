@@ -9,6 +9,8 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 
 |                                                                                Vaga |      Empresa |                           Local | Remoto? |                                                                                                           Onde aplicar |
 |-------------------------------------------------------------------------------------|--------------|---------------------------------|---------|------------------------------------------------------------------------------------------------------------------------|
+|                                                       Pessoa Engenheira de Software | 180° Seguros |                          Brazil |         |                                             https://180-seguros.breezy.hr/p/6227cb95c7c6-pessoa-engenheira-de-software |
+|                  Pessoa Engenheira de Software (Vaga exclusiva para Pessoas Pretas) | 180° Seguros |                          Brazil |         |          https://180-seguros.breezy.hr/p/5f578930f265-pessoa-engenheira-de-software-vaga-exclusiva-para-pessoas-pretas |
 |                          Pessoa Desenvolvedora de Software Backend Sênior (Clojure) |      Embraer |             São José dos Campos |     Sim |                                                   https://embraer.gupy.io/jobs/1108893?jobBoardSource=gupy_public_page |
 |                                                                Full Stack Developer | Flow Finance |                                 |     Sim |                     https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
 |                                                           Business Security Manager |       Nubank |                       São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3400816 |
@@ -29,11 +31,10 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
 
 
-|           Empresa |                             Site |                                         Onde aplicar |
-|-------------------|----------------------------------|------------------------------------------------------|
-| Moleque de Ideias | https://www.molequedeideias.net/ |                     https://www.molequedeideias.net/ |
-|            CSD BR |                https://csdbr.com |                                         rh@csdbr.com |
-|    180º Insurance |             https://180s.com.br/ | https://www.linkedin.com/company/180-insurance/jobs/ |
+|           Empresa |                             Site |                     Onde aplicar |
+|-------------------|----------------------------------|----------------------------------|
+| Moleque de Ideias | https://www.molequedeideias.net/ | https://www.molequedeideias.net/ |
+|            CSD BR |                https://csdbr.com |                     rh@csdbr.com |
 
 
 ## Empresas com vagas mas que usam Clojure eventualmente ou em projetos específicos
