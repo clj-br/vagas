@@ -1,6 +1,7 @@
 (ns clojure-empregos-brasil.boards
   (:require [net.cgrand.enlive-html :as html]
-            [clojure-empregos-brasil.scrap :as scrap]))
+            [clojure-empregos-brasil.scrap :as scrap]
+            [clojure-empregos-brasil.breezy :as breezy]))
 
 (def gupy
   {:title      [:.title html/text-node]
@@ -21,6 +22,14 @@
 (def breezy
   {:title      [:h2 html/text-node]
    :url        #(-> % (html/select [:a]) first :attrs :href)
-   :location   [:ul.meta :li.location html/text-node]
+   :location   #(-> %
+                    (html/select [:ul.meta :li.location html/text-node])
+                    first
+                    breezy/i18n)
    :department [:ul.meta :li.department html/text-node]
-   :type       [:ul.meta :li.type html/text-node]})
+   :type       [:ul.meta :li.type html/text-node]
+   :remote     #(-> %
+                    (html/select [:ul.meta :li.location html/text-node])
+                    (->> first (contains? #{"%LABEL_POSITION_TYPE_REMOTE%"
+                                            "%LABEL_POSITION_TYPE_Worldwide%"
+                                            "%LABEL_POSITION_TYPE_WORLDWIDE%"})))})
