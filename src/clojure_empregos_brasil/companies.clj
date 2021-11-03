@@ -42,3 +42,12 @@
    :engineer? #(= (:department %) "Engenharia")
    :brazil?   boolean
    :clojure?  boolean})
+
+(def i80-seguros
+  {:name      "180° Seguros"
+   :page      "https://180-seguros.breezy.hr/"
+   :path      [:li.position]
+   :scrap     boards/breezy
+   :engineer? #(= (:department %) "Tecnologia")
+   :brazil?   boolean
+   :clojure?  boolean})

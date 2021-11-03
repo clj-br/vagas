@@ -1,3 +1,7 @@
 .cpcache
 *~
 .idea
+.nrepl-port
+.clj-kondo/.cache
+.lsp/.cache
+.cpcache
