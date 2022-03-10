@@ -26,7 +26,9 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |                            Especialista em Segurança da Informação |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                           https://pipo-saude.breezy.hr/p/21590ad632c4-especialista-em-seguranca-da-informacao |
 |  Pessoa Engenheira de Software (Vaga exclusiva para pessoas trans) |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |   https://pipo-saude.breezy.hr/p/647061946892-pessoa-engenheira-de-software-vaga-exclusiva-para-pessoas-trans |
 | Pessoa Engenheira de Software (vaga exclusiva para pessoas negras) |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |  https://pipo-saude.breezy.hr/p/1a9152c5e824-pessoa-engenheira-de-software-vaga-exclusiva-para-pessoas-negras |
-|                               Pessoa Engenheira de Software Sênior |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                              https://pipo-saude.breezy.hr/p/323a55e4c15f-pessoa-engenheira-de-software-senior |
+|                                  Pessoa Engenheira de Software Jr. |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                                  https://pipo-saude.breezy.hr/p/e2e72cd3c60e-pessoa-engenheira-de-software-jr |
+|                                Pessoa Engenheira de Software Pleno |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                               https://pipo-saude.breezy.hr/p/88be39a57a16-pessoa-engenheira-de-software-pleno |
+|                               Pessoa Engenheira de Software Sênior |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                              https://pipo-saude.breezy.hr/p/7f9fb45706e4-pessoa-engenheira-de-software-senior |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
