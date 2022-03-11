@@ -21,7 +21,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |                                                  Software Engineer |       Nubank |                       São Paulo |     Não |                                                              https://boards.greenhouse.io/nubank/jobs/2569175 |
 |                                      Systems Engineer (SRE/DevOps) |       Nubank |                       São Paulo |     Não |                                                              https://boards.greenhouse.io/nubank/jobs/3372800 |
 |                                                       Tech Manager |       Nubank |                       São Paulo |     Não |                                                              https://boards.greenhouse.io/nubank/jobs/2989044 |
-|                                        Threat Intelligence Analyst |       Nubank |                       São Paulo |     Não |                                                              https://boards.greenhouse.io/nubank/jobs/3932027 |
+|                 Threat Intelligence Analyst (Remote within Brazil) |       Nubank |                       São Paulo |     Não |                                                              https://boards.greenhouse.io/nubank/jobs/3932027 |
 |              Engenheira de Software (Vaga exclusiva para mulheres) |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |               https://pipo-saude.breezy.hr/p/2508984cb6c6-engenheira-de-software-vaga-exclusiva-para-mulheres |
 |                            Especialista em Segurança da Informação |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                           https://pipo-saude.breezy.hr/p/21590ad632c4-especialista-em-seguranca-da-informacao |
 |  Pessoa Engenheira de Software (Vaga exclusiva para pessoas trans) |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |   https://pipo-saude.breezy.hr/p/647061946892-pessoa-engenheira-de-software-vaga-exclusiva-para-pessoas-trans |
@@ -29,6 +29,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |                                  Pessoa Engenheira de Software Jr. |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                                  https://pipo-saude.breezy.hr/p/e2e72cd3c60e-pessoa-engenheira-de-software-jr |
 |                                Pessoa Engenheira de Software Pleno |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                               https://pipo-saude.breezy.hr/p/88be39a57a16-pessoa-engenheira-de-software-pleno |
 |                               Pessoa Engenheira de Software Sênior |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                              https://pipo-saude.breezy.hr/p/7f9fb45706e4-pessoa-engenheira-de-software-senior |
+|                                                          Tech Lead |   Pipo Saúde | %LABEL_POSITION_TYPE_WORLDWIDE% |         |                                                         https://pipo-saude.breezy.hr/p/5cfe42cda790-tech-lead |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
