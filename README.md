@@ -7,18 +7,17 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 ## Vagas
 
 
-|                                        Vaga |      Empresa |     Local | Remoto? |                                                                                       Onde aplicar |
-|---------------------------------------------|--------------|-----------|---------|----------------------------------------------------------------------------------------------------|
-|                        Full Stack Developer | Flow Finance |           |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
-|                   Business Security Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3400816 |
-|                     Cloud Security Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4120289 |
-|                  Security Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3695044 |
-|       Senior Technical Writer - Engineering |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4108951 |
-| Site Reliability Engineer - Data Platforms  |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4135891 |
-|                           Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
-|                   Systems Engineer (DevOps) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3372800 |
-|                                Tech Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
-|         Vulnerability Management Specialist |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4064230 |
+|                                  Vaga |      Empresa |     Local | Remoto? |                                                                                       Onde aplicar |
+|---------------------------------------|--------------|-----------|---------|----------------------------------------------------------------------------------------------------|
+|                  Full Stack Developer | Flow Finance |           |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
+|             Business Security Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3400816 |
+|               Cloud Security Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4120289 |
+|            Security Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3695044 |
+| Senior Technical Writer - Engineering |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4108951 |
+|                     Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
+|             Systems Engineer (DevOps) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3372800 |
+|                          Tech Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
+|   Vulnerability Management Specialist |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4064230 |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
