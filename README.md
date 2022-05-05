@@ -13,6 +13,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |            Senior IT Systems Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4131150 |
 |             Business Security Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3400816 |
 |               Cloud Security Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4120289 |
+|               IT Systems Tech Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4179939 |
 |            Security Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3695044 |
 | Senior Technical Writer - Engineering |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4108951 |
 |                     Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
