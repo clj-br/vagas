@@ -20,7 +20,6 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |                                     Staff / Principal Data Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4204751 |
 |                                           Systems Engineer (DevOps) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3372800 |
 |                                                        Tech Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
-|                                 Vulnerability Management Specialist |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4064230 |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
