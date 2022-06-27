@@ -11,7 +11,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 |-------------------------------------------------------|--------------|-----------|---------|----------------------------------------------------------------------------------------------------|
 |                                  Full Stack Developer | Flow Finance |           |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
 |                             Business Security Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3400816 |
-|                         Cloud Security Technical Lead |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4120289 |
+|                    Cloud Security Engineer Specialist |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4120289 |
 |                                     Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
 |                             Systems Engineer (DevOps) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3372800 |
 | Systems Engineer - Interservice Communication (Kafka) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4304476 |
