@@ -6,8 +6,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 
 ## Vagas
 
-
-|                                                  Vaga |      Empresa |     Local | Remoto? |                                                                                       Onde aplicar |
+|                                                  Vaga |      Empresa |     Local | Remoto? |                                                                                 Onde se candidatar |
 |-------------------------------------------------------|--------------|-----------|---------|----------------------------------------------------------------------------------------------------|
 |                                  Full Stack Developer | Flow Finance |           |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
 |                             Business Security Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3400816 |

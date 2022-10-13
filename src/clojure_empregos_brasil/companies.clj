@@ -1,6 +1,7 @@
 (ns clojure-empregos-brasil.companies
   (:require [clojure.string :as string]
-           [clojure-empregos-brasil.boards :as boards]))
+            [clojure-empregos-brasil.boards :as boards]
+            [clojure-empregos-brasil.breezy :as breezy]))
 
 (def nubank
   {:name      "Nubank"
@@ -9,8 +10,7 @@
    :scrap     boards/greenhouse
    :engineer? (comp (partial = "60350") :department)
    :brazil?   (comp (partial = "58102") :office_id)
-   :clojure?  boolean
-   :enrich    identity})
+   :clojure?  boolean})
 
 (def paygo
   {:name      "PayGo"
@@ -41,7 +41,8 @@
    :scrap     boards/breezy
    :engineer? #(= (:department %) "Engenharia")
    :brazil?   boolean
-   :clojure?  boolean})
+   :clojure?  boolean
+   :pre-html  #(do (breezy/load-i18n %) %)})
 
 (def i80-seguros
   {:name      "180° Seguros"

@@ -43,9 +43,9 @@
    sequence."
   [& companies]
   (flatten
-    (for [{:keys [engineer? brazil? clojure? enrich name page] :as company} companies]
+    (for [{:keys [engineer? brazil? clojure? pre-html name page] :as company} companies]
       (let [html (html/html-resource (URL. page))
-            positions (scrap html
+            positions (scrap (if (fn? pre-html) (pre-html html) html)
                              (:path company)
                              (:scrap company))]
         (->> positions
