@@ -6,34 +6,25 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 
 ## Vagas
 
-
-|                                                                                Vaga |      Empresa |                    Local | Remoto? |                                                                                                           Onde aplicar |
-|-------------------------------------------------------------------------------------|--------------|--------------------------|---------|------------------------------------------------------------------------------------------------------------------------|
-|                          Pessoa Desenvolvedora de Software Backend Sênior (Clojure) |      Embraer |      São José dos Campos |     Sim |                                                   https://embraer.gupy.io/jobs/1108893?jobBoardSource=gupy_public_page |
-|                                                                Full Stack Developer | Flow Finance |                          |     Sim |                     https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
-|                                                           Business Security Manager |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3400816 |
-|                                                  Cloud Security Engineer Specialist |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3339732 |
-|                                                                       Data Engineer |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3264442 |
-|                                                           Mobile Software Engineer  |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/1776035 |
-|                                              Offensive Security Engineer Specialist |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3410377 |
-|                                                  Security Incident Responder SecOps |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3382061 |
-|                                                                   Software Engineer |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/2569175 |
-|                                                       Systems Engineer (SRE/DevOps) |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/3372800 |
-|                                                                        Tech Manager |       Nubank |                São Paulo |     Não |                                                                       https://boards.greenhouse.io/nubank/jobs/2989044 |
-|             Engenheira de Software (vaga focada em mulheres) &#124; Trabalho Remoto |   Pipo Saúde | Remoto ao redor do mundo |     Sim |             https://pipo-saude.breezy.hr/p/2508984cb6c6-engenheira-de-software-vaga-focada-em-mulheres-trabalho-remoto |
-|                       Pessoa Engenheira de Software (vaga focada em pessoas negras) |   Pipo Saúde | Remoto ao redor do mundo |     Sim |                https://pipo-saude.breezy.hr/p/1a9152c5e824-pessoa-engenheira-de-software-vaga-focada-em-pessoas-negras |
-| Pessoa Engenheira de Software (vaga focada em pessoas trans) &#124; Trabalho Remoto |   Pipo Saúde | Remoto ao redor do mundo |     Sim | https://pipo-saude.breezy.hr/p/647061946892-pessoa-engenheira-de-software-vaga-focada-em-pessoas-trans-trabalho-remoto |
-|                                                Pessoa Engenheira de Software Sênior |   Pipo Saúde | Remoto ao redor do mundo |     Sim |                                       https://pipo-saude.breezy.hr/p/323a55e4c15f-pessoa-engenheira-de-software-senior |
+|                                                  Vaga |      Empresa |     Local | Remoto? |                                                                                 Onde se candidatar |
+|-------------------------------------------------------|--------------|-----------|---------|----------------------------------------------------------------------------------------------------|
+|                                  Full Stack Developer | Flow Finance |           |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
+|                             Business Security Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3400816 |
+|                    Cloud Security Engineer Specialist |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4120289 |
+|                            Security Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3695044 |
+|                                     Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
+|                             Systems Engineer (DevOps) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/3372800 |
+| Systems Engineer - Interservice Communication (Kafka) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4304476 |
+|                                          Tech Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
 
 
-|           Empresa |                             Site |                                         Onde aplicar |
-|-------------------|----------------------------------|------------------------------------------------------|
-| Moleque de Ideias | https://www.molequedeideias.net/ |                     https://www.molequedeideias.net/ |
-|            CSD BR |                https://csdbr.com |                                         rh@csdbr.com |
-|    180º Insurance |             https://180s.com.br/ | https://www.linkedin.com/company/180-insurance/jobs/ |
+|           Empresa |                             Site |                     Onde aplicar |
+|-------------------|----------------------------------|----------------------------------|
+| Moleque de Ideias | https://www.molequedeideias.net/ | https://www.molequedeideias.net/ |
+|            CSD BR |                https://csdbr.com |                     rh@csdbr.com |
 
 
 ## Empresas com vagas mas que usam Clojure eventualmente ou em projetos específicos

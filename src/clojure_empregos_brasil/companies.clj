@@ -43,3 +43,12 @@
    :brazil?   boolean
    :clojure?  boolean
    :pre-html  #(do (breezy/load-i18n %) %)})
+
+(def i80-seguros
+  {:name      "180° Seguros"
+   :page      "https://180-seguros.breezy.hr/"
+   :path      [:li.position]
+   :scrap     boards/breezy
+   :engineer? #(= (:department %) "Tecnologia")
+   :brazil?   boolean
+   :clojure?  boolean})
