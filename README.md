@@ -13,6 +13,7 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 | Data Governance Engineering Specialist - Argentina |       Nubank | Buenos Aires |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4553719 |
 |    Data Governance Engineering Specialist - Brazil |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4516624 |
 |                               Senior Data Engineer |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4468980 |
+| Senior Defensive Security Engineer (Data Security) |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4646301 |
 |                                  Software Engineer |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
 |                          Systems Engineer (DevOps) |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4426342 |
 |                                       Tech Manager |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
