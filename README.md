@@ -7,17 +7,16 @@ Vagas de empresas que ativamente contratam pessoas desenvolvedoras Clojure no Br
 ## Vagas
 
 
-|                                               Vaga |      Empresa |        Local | Remoto? |                                                                                       Onde aplicar |
-|----------------------------------------------------|--------------|--------------|---------|----------------------------------------------------------------------------------------------------|
-|                               Full Stack Developer | Flow Finance |              |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
-| Data Governance Engineering Specialist - Argentina |       Nubank | Buenos Aires |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4553719 |
-|    Data Governance Engineering Specialist - Brazil |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4516624 |
-|                               Senior Data Engineer |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4468980 |
-| Senior Defensive Security Engineer (Data Security) |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4646301 |
-|                                  Software Engineer |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
-|                          Systems Engineer (DevOps) |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4426342 |
-|                                       Tech Manager |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
-|                          Technical Program Manager |       Nubank |    São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4468880 |
+|                                               Vaga |      Empresa |     Local | Remoto? |                                                                                       Onde aplicar |
+|----------------------------------------------------|--------------|-----------|---------|----------------------------------------------------------------------------------------------------|
+|                               Full Stack Developer | Flow Finance |           |     Sim | https://airtable.com/embed/shrG8DnjAdAOAZm9h/tble1ghQMefhblMVK/viwOzu3raZSmdxK7Z/recGtRyuHlvFhUV0v |
+|    Data Governance Engineering Specialist - Brazil |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4516624 |
+|                               Senior Data Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4468980 |
+| Senior Defensive Security Engineer (Data Security) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4646301 |
+|                                  Software Engineer |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2569175 |
+|                          Systems Engineer (DevOps) |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4426342 |
+|                                       Tech Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/2989044 |
+|                          Technical Program Manager |       Nubank | São Paulo |     Não |                                                   https://boards.greenhouse.io/nubank/jobs/4468880 |
 
 
 ## Empresas que usam Clojure sem vagas no momento ou sem listagem pública
